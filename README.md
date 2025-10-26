@@ -25,7 +25,7 @@ I specialize in **Vue.js, Nuxt.js, TailwindCSS, and Three.js**, creating website
 
 | Project | Description | Preview |
 |---------|------------|---------|
-| **Nuxt Starter Template** | Ready-to-use Nuxt 3 template for rapid project setup | ![Nuxt Template](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) |
+| **Nuxt Starter Template** | Ready-to-use Nuxt template for rapid project setup | ![Nuxt Template](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) |
 | **Interactive 3D UI** | 3D interactive UI components with Three.js and GSAP animations | ![3D UI](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif) |
 | **Animation Experiments** | Playground for testing advanced animations and web interactions | ![Animations](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
 

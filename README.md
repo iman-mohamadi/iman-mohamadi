@@ -35,15 +35,15 @@ I specialize in **Vue.js, Nuxt.js, TailwindCSS, and Three.js**, creating website
 
 ## 📫 Contact Me
 
-- 🌐 [Portfolio / Website](#) (Add your link)  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: `youremail@example.com` (optional)
+- 🌐 [Portfolio / Website](https://www.iman-mohamadi.com/)
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/iman-mohammadi-687b1824a/))  
+- 📧 Email: `im.enzo.021@gmail.com`
 
 ---
 
 ## 📊 GitHub Stats
 
-![iEnzO233's GitHub stats](https://github-readme-stats.vercel.app/api?username=iEnzO233&show_icons=true&theme=radical)
+![iman-mohamadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iman-mohamadi&show_icons=true&theme=radical)
 
 ---
 

@@ -10,9 +10,9 @@ I specialize in **Vue.js, Nuxt.js, TailwindCSS, and Three.js**, creating website
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue-3.2-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue 3"/>
-  <img src="https://img.shields.io/badge/Nuxt-3-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" alt="Nuxt 3"/>
-  <img src="https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/GSAP-61DAFB?style=flat&logo=greensock&logoColor=white" alt="GSAP"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>

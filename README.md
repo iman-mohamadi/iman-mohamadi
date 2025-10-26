@@ -36,7 +36,7 @@ I specialize in **Vue.js, Nuxt.js, TailwindCSS, and Three.js**, creating website
 ## 📫 Contact Me
 
 - 🌐 [Portfolio / Website](https://www.iman-mohamadi.com/)
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/iman-mohammadi-687b1824a/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/iman-mohammadi-687b1824a/))  
 - 📧 Email: `im.enzo.021@gmail.com`
 - 📱 Phone: `+98 938 424 9894`
 

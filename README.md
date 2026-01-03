@@ -1,55 +1,76 @@
-# 👋 Hi, I'm Iman Mohammadi
+<h1 align="center">👋 Hi, I'm Iman Mohammadi</h1>
 
-### Front-end Developer | Vue.js & Nuxt.js | Three.js Enthusiast
+<h3 align="center">
+  Creative Front-end Developer 🇮🇷<br/>
+  Creating immersive web experiences with Vue.js, Nuxt, & Three.js
+</h3>
 
-I’m a passionate **Front-end Developer** from Tehran, focused on building **interactive and visually stunning web experiences**.  
-I specialize in **Vue.js, Nuxt.js, TailwindCSS, and Three.js**, creating websites that are **fast, responsive, and engaging**.
+<p align="center">
+  <a href="https://iman-mohammadi.vercel.app/"><strong>Explore My Portfolio »</strong></a>
+  <br />
+  <br />
+  <a href="https://www.linkedin.com/in/iman-mohammadi-687b1824a/">LinkedIn</a>
+  ·
+  <a href="mailto:im.enzo.021@gmail.com">Email Me</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 About Me
+
+I am a **Front-end Developer** based in **Tehran**, passionate about bridging the gap between design and engineering. I don't just build websites; I build **interactive digital experiences**.
+
+My focus is on performance, responsiveness, and visual impact. Whether it's a complex dashboard or a 3D landing page, I use **Vue.js** and **WebGL** to bring ideas to life.
+
+* 🔭 I’m currently working on **Advanced Three.js interactions**.
+* 🌱 I’m currently learning **Shader programming (GLSL)**.
+* ⚡ Fun fact: I believe animations should feel like a natural extension of the user's intent.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=flat&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/GSAP-61DAFB?style=flat&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00C58E" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
 ## 🎨 Featured Projects
 
-| Project | Description | Preview |
-|---------|------------|---------|
-| **Nuxt Starter Template** | Ready-to-use Nuxt template for rapid project setup | ![Nuxt Template](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) |
-| **Interactive 3D UI** | 3D interactive UI components with Three.js and GSAP animations | ![3D UI](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif) |
-| **Animation Experiments** | Playground for testing advanced animations and web interactions | ![Animations](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
+| Project & Link | Tech Stack | Preview |
+|:--------------|:-----------|:--------|
+| **[My Portfolio v2](https://iman-mohammadi.vercel.app/)**<br>My personal creative showcase featuring 3D elements and smooth page transitions. | `Vue 3` `Three.js` `GSAP` | <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="200" alt="Portfolio Preview"> |
+| **Nuxt Starter Template**<br>An opinionated, production-ready template for rapid development. | `Nuxt 3` `Tailwind` `Pinia` | <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Template Preview"> |
+| **Interactive 3D Experiments**<br>A playground for testing advanced WebGL concepts and physics. | `Three.js` `Cannon.js` | <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Experiments Preview"> |
 
-> ⚡ More projects coming soon! I continuously experiment with **interactive web designs**.
-
----
-
-## 📫 Contact Me
-
-- 🌐 [Portfolio / Website](https://www.iman-mohamadi.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/iman-mohammadi-687b1824a/))  
-- 📧 Email: `im.enzo.021@gmail.com`
-- 📱 Phone: `+98 938 424 9894`
+> *Note: The GIFs above are placeholders. Check my [Portfolio](https://iman-mohammadi.vercel.app/) for live demos.*
 
 ---
 
 ## 📊 GitHub Stats
 
-![iman-mohamadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iman-mohamadi&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iman-mohamadi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iman-mohamadi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+</div>
 
 ---
 
-## 🎯 Goals
+## 📫 Let's Connect
 
-- Build **interactive and visually engaging websites**  
-- Explore **WebGL & Three.js** for creative web experiences  
-- Contribute to **open-source projects** and share knowledge
+If you are looking for a developer to help you build a **fast, responsive, and interactive** website, feel free to reach out!
+
+* 🌐 **Website:** [iman-mohammadi.vercel.app](https://iman-mohammadi.vercel.app/)
+* 💼 **LinkedIn:** [Iman Mohammadi](https://www.linkedin.com/in/iman-mohammadi-687b1824a/)
+* 📧 **Email:** [im.enzo.021@gmail.com](mailto:im.enzo.021@gmail.com)
+* 📱 **Phone:** `+98 938 424 9894`

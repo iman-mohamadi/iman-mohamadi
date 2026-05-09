@@ -1,63 +1,63 @@
 <h1 align="center">👋 Hi, I'm Iman Mohammadi</h1>
 
 <h3 align="center">
-  Founder of <a href="https://raya-ui.com">Raya UI</a> | Front-End Specialist<br/>
-  Vue.js & Nuxt.js Expert | Three.js Enthusiast
+  Founder of <a href="https://raya-ui.com">Raya UI</a> | Senior Full-Stack Engineer<br/>
+  Specializing in 3D Web Experiences & High-Scale Architecture
 </h3>
 
 <p align="center">
-  <a href="https://iman-mohammadi.vercel.app/"><strong>Explore My Portfolio »</strong></a>
+  <a href="https://iman-mhmdi.ir/"><strong>Explore My Portfolio »</strong></a>
   <br />
   <br />
   <a href="https://www.linkedin.com/in/iman-mohammadi-687b1824a/">LinkedIn</a>
   ·
   <a href="mailto:im.enzo.021@gmail.com">Email Me</a>
+  ·
+  <a href="https://tinyhub.ir/">TinyHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Executive Summary
 
-I am a **Senior Front-end Developer** and **Open Source Creator** based in Tehran. I specialize in architecting large-scale applications and building high-performance UI libraries.
+I am a **Senior Front-end Architect** and **Full-Stack Developer** based in Tehran. I specialize in bridging the gap between complex engineering and immersive 3D visuals. 
 
-Currently, I am the **Founder of Raya UI** and the **Sole Front-end Developer** for major platforms like **Hotelyar** and **Woodcoder**, handling complex logic and interactive interfaces single-handedly.
+Currently, I architect and maintain the frontend ecosystems for Iran's leading travel and e-commerce platforms, while building open-source design systems that empower developers.
 
-* 🔭 **Founder:** Creating the next generation of UI tools at **[Raya UI](https://raya-ui.com)**.
-* 💼 **Production:** Solely responsible for the frontend architecture of high-traffic platforms.
-* ⚡ **Passion:** Merging technical engineering with creative **Three.js** visuals.
+* 🛠️ **Founder of [Raya UI](https://raya-ui.com):** A professional-grade Vue/Nuxt component library.
+* 📦 **Product Creator:** Developed **[TinyHub](https://tinyhub.ir)**, a high-performance utility suite (Next.js, Node.js, Drizzle ORM).
+* 📐 **3D Specialist:** Architected complex WebGL configurators for real-time furniture customization.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00C58E" alt="Nuxt"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Raya_UI-646CFF?style=for-the-badge&logo=box&logoColor=white" alt="Raya UI"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+### Frontend & 3D
+`Vue 3` `Nuxt 3/4` `Next.js` `Three.js` `GSAP` `TailwindCSS` `TypeScript`
+
+### Backend & Database
+`Node.js` `Express` `PostgreSQL` `Drizzle ORM` `REST APIs`
+
+### Tools & DevOps
+`Vite` `Git` `Arch Linux` `Docker` `Vercel`
 
 ---
 
-## 🏆 Real-World Projects & Architecture
+## 🏆 Professional Experience & Impact
 
-I build production-ready software used by real users. Here is my primary work:
+I specialize in "Sole Developer" roles for large-scale platforms, handling everything from UI/UX implementation to complex state management and 3D logic.
 
-| Role | Project | Description |
-|:-----|:--------|:------------|
-| **👑 Founder** | **[Raya UI](https://raya-ui.com)** | A comprehensive UI library I architected and maintain. Focused on performance, accessibility, and developer experience. |
-| **👨‍💻 Sole Developer** | **[Hotelyar](https://hotelyar.com)** | The leading hotel booking platform. I manage the entire frontend architecture, ensuring speed and reliability for high-volume traffic. |
-| **👨‍💻 Sole Developer** | **[Woodcoder](https://woodcoder.com)** | Complete frontend development for Woodcoder, implementing complex features and responsive design patterns independently. |
+| Project | Role | Highlights |
+|:---|:---|:---|
+| **[Woodcoder](https://woodcoder.com)** | **Lead Developer** | Engineered a complex **3D configurator** for furniture (bookcases, tables). Managed real-time mesh manipulation and dynamic pricing logic. |
+| **[Hotelyar](https://hotelyar.com)** | **Senior Architect** | Leading the frontend for the nation's top hotel booking system. Built high-concurrency search interfaces and custom **B2B Admin Panels**. |
+| **[Bootimar](https://bootimar.com)** | **Senior Developer** | Developed the flight booking engine and comprehensive internal management systems/dashboards. |
+| **[Raya UI](https://raya-ui.com)** | **Founder** | Architected an open-source library focused on **Glassmorphism** and minimalist aesthetics for the Vue ecosystem. |
+| **[TinyHub](https://tinyhub.ir)** | **Full-Stack Dev** | Built a suite of developer tools using a modern **Next.js + PGSQL** stack with a focus on speed and SEO. |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iman-mohamadi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
@@ -66,9 +66,11 @@ I build production-ready software used by real users. Here is my primary work:
 
 ---
 
-## 📫 Contact Me
+## 📩 Let's Build Something Extraordinary
 
-- 🌐 **Portfolio:** [iman-mohammadi.vercel.app](https://iman-mohammadi.vercel.app/)
+I am always open to discussing high-scale architectures, 3D web implementation, or senior-level collaborations.
+
+- 🌐 **Updated Portfolio:** [iman-mhmdi.ir](https://iman-mhmdi.ir)
 - 💼 **LinkedIn:** [Iman Mohammadi](https://www.linkedin.com/in/iman-mohammadi-687b1824a/)
-- 📧 **Email:** `im.enzo.021@gmail.com`
-- 📱 **Phone:** `+98 938 424 9894`
+- 📱 **Telegram/Phone:** `+98 938 424 9894`
+- 📧 **Direct Email:** `im.enzo.021@gmail.com`

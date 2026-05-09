@@ -53,7 +53,7 @@ I specialize in "Sole Developer" roles for large-scale platforms, handling every
 | **[Hotelyar](https://hotelyar.com)** | **Senior Architect** | Leading the frontend for the nation's top hotel booking system. Built high-concurrency search interfaces and custom **B2B Admin Panels**. |
 | **[Bootimar](https://bootimar.com)** | **Senior Developer** | Developed the flight booking engine and comprehensive internal management systems/dashboards. |
 | **[Raya UI](https://raya-ui.com)** | **Founder** | Architected an open-source library focused on **Glassmorphism** and minimalist aesthetics for the Vue ecosystem. |
-| **[TinyHub](https://tinyhub.ir)** | **Full-Stack Dev** | Built a suite of developer tools using a modern **Next.js + PGSQL** stack with a focus on speed and SEO. |
+| **[TinyHub](https://tinyhub.ir)** | **Founder** | Built a suite of developer tools using a modern **Next.js + PGSQL** stack with a focus on speed and SEO. |
 
 ---
 
@@ -70,7 +70,7 @@ I specialize in "Sole Developer" roles for large-scale platforms, handling every
 
 I am always open to discussing high-scale architectures, 3D web implementation, or senior-level collaborations.
 
-- 🌐 **Updated Portfolio:** [iman-mhmdi.ir](https://iman-mhmdi.ir)
+- 🌐 **Portfolio:** [iman-mhmdi.ir](https://iman-mhmdi.ir)
 - 💼 **LinkedIn:** [Iman Mohammadi](https://www.linkedin.com/in/iman-mohammadi-687b1824a/)
 - 📱 **Telegram/Phone:** `+98 938 424 9894`
 - 📧 **Direct Email:** `im.enzo.021@gmail.com`
